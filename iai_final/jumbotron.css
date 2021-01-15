@@ -1,0 +1,148 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top:6.5rem;
+}
+.jumbotron {
+    align-content: center;
+    background-image: url(https://www.greenbike.pl/images/giant_2020/E-Bikes/OFF%20ROAD/Reign%20E+%200%20Pro%20-%2033%20499%20z%C5%82/reignEpro_gallery04.jpg);
+    height: 40rem;
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+#downhill {
+    align-content: center;
+    background-image: url(bike3.jpg);
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: cover;
+}
+.display-3 {
+    margin-top: 5rem;
+    color: white;
+    font-weight: 650;
+    font-kerning: auto;
+    font-style: italic;
+    text-align: center;
+    font-size: 100px;
+}
+
+#sekcja1 {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    background-color: white;
+    align-content: center;   
+    
+}
+
+#sekcja2 {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+#sekcja3 {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 4.76%;
+    background-color: #1d1d1d;
+    color: white;
+    
+}
+#sekcja4 {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 4.76%;
+    background-color: #FFFFFF;
+    color: #000000;
+    
+}
+.zdjecia1 {
+    width: 420px;
+    height: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.zdjecia2 {
+    height: 200px;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.zdjecia3 {
+    height: 300px;
+    
+}
+#footer {
+    
+    background-color: #1d1d1d;;
+    color: white;
+    height: auto;
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: 100;
+    
+}
+#pasekjasny {
+    background-color: #52A8A8;
+}
+#pasekciemny {
+    background-color: #1d1d1d;
+    color: white;
+    font-weight: 300;
+    font-kerning: auto;
+    font-style: normal;
+    text-align: center;
+    font-size: large;
+}
+.sociale {
+    height: 70px;
+}
+.btn btn-secondary{
+    color: #52A8A8;
+    background-color: #1d1d1d;
+}
+#sekcja5 {
+    margin-top: 3rem;
+    margin-bottom: 10srem;
+    background-color: #1d1d1d;
+    align-content: center;   
+    
+}
+#haslo {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 3%;
+    align-content: center;
+    color: white;
+    font-size: 30px;
+    font-weight: 100;
+    background-color: #1d1d1d;
+    text-shadow: 0 0 0.3em #52A8A8,0 0 0.3em #52A8A8,0 0 0.3em #52A8A8;
+}
+#haslo2 {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 3%;
+    align-content: center;
+    color: #52A8A8;
+    font-size: 30px;
+    font-weight: 100;
+    background-color: white;
+    
+}
+.naglowek1 {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: white;
+    color: black;
+    font-weight: 100;
+    font-size: 50px
+}
